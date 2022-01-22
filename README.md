@@ -1,4 +1,4 @@
-![Header width="500"](https://www.truthinsideofyou.org/wp-content/uploads/2016/04/Without-data-youre-just-another-person-with-an-opinion.-W.-Edwards-Deming.jpg) 
+![Header width="300"](https://www.truthinsideofyou.org/wp-content/uploads/2016/04/Without-data-youre-just-another-person-with-an-opinion.-W.-Edwards-Deming.jpg) 
 ___
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there 
 I'm Yassine, a Finance student with a huge interest in Data collection & Analysis.
