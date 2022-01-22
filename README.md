@@ -1,3 +1,4 @@
+![Header width="300"](https://image.slidesharecdn.com/digitaltransformation50soundbites-150527201639-lva1-app6892/95/slide-19-1024.jpg) 
 ___
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there 
 I'm Yassine, a Finance & BI student with a huge interest in Data collection & Analysis.
@@ -16,6 +17,5 @@ ___
 ## The Rhzif Profile Stat's
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhzif&show_icons=true&theme=dark&count_private=true)
 
-![Header width="300"](https://www.truthinsideofyou.org/wp-content/uploads/2016/04/Without-data-youre-just-another-person-with-an-opinion.-W.-Edwards-Deming.jpg) 
 
 
