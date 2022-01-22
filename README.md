@@ -1,6 +1,6 @@
 ___
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there 
-I'm Yassine, a Finance student with a huge interest in Data collection & Analysis.
+I'm Yassine, a Finance & BI student with a huge interest in Data collection & Analysis.
 ___
 ### 💪 Here is what I use : 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
