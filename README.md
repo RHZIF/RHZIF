@@ -16,11 +16,6 @@ ___
 ## The Rhzif Profile Stat's
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhzif&show_icons=true&theme=dark&count_private=true)
 
-## The most used language 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhzif&layout=default)
-
-
-
 ![Header width="300"](https://www.truthinsideofyou.org/wp-content/uploads/2016/04/Without-data-youre-just-another-person-with-an-opinion.-W.-Edwards-Deming.jpg) 
 
 
