@@ -1,4 +1,3 @@
-![Header width="300"](https://image.slidesharecdn.com/digitaltransformation50soundbites-150527201639-lva1-app6892/95/slide-19-1024.jpg) 
 ___
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there 
 I'm Yassine, a Finance & BI student with a huge interest in Data collection & Analysis.
