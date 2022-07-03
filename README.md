@@ -1,5 +1,6 @@
 ___
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there 
+
+Hi there 
 I'm Yassine, a Finance & BI student with a huge interest in Data collection & Analysis.
 ___
 ### 💪 Here is what I use : 
